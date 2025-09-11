@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<ANHAD SINGH SARNA>`
+- **CCID:** `<ASSARNA>`
 
 ## References and Resources
 
